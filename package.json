@@ -11,5 +11,9 @@
     "Brainwallet"
   ],
   "author": "imcoddy",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "bitcore": "^0.12.13",
+    "cryptojs": "^2.5.3"
+  }
 }
